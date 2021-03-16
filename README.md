@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p>
+  <a href="https://twitter.com/gnujoow">
+    <img alt="Twitter: gnujoow" src="https://img.shields.io/twitter/follow/gnujoow.svg?style=social" target="_blank" />
+  </a>
+</p>
+
+
 <!--
 **gnujoow/gnujoow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
