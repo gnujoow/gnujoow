@@ -9,6 +9,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gnujoow&count_private=true&show_icons=true&include_all_commits=true)
 
+![Profile last updated](https://img.shields.io/github/last-commit/gnujoow/gnujoow/main?label=Last%20updated&style=flat)
 
 <!--
 **gnujoow/gnujoow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
