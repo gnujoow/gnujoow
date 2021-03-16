@@ -1,11 +1,12 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/wjkim90/">
+  <img align="left" alt="woojung's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/gnujoow">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
-<p>
-  <a href="https://twitter.com/gnujoow">
-    <img alt="Twitter: gnujoow" src="https://img.shields.io/twitter/follow/gnujoow.svg?style=social" target="_blank" />
-  </a>
-</p>
-
+![](https://visitor-badge.glitch.me/badge?page_id=gnujoow.gnujoow)
 
 <!--
 **gnujoow/gnujoow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
