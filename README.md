@@ -1,11 +1,8 @@
 ### Hi there 👋
-<a href="https://www.linkedin.com/in/wjkim90/">
-  <img align="left" alt="woojung's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/gnujoow">
-  <img alt="Twitter: gnujoow" src="https://img.shields.io/twitter/follow/gnujoow.svg?style=social" target="_blank" />
-</a>
 
+[![Twitter: gnujoow](https://img.shields.io/twitter/follow/gnujoow?style=social)](https://twitter.com/gnujoow)
+[![Linkedin: woojung](https://img.shields.io/badge/-woojung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wjkim90/)](https://www.linkedin.com/in/wjkim90/)
+[![GitHub gnujoow](https://img.shields.io/github/followers/gnujoow?label=follow&style=social)](https://github.com/gnujoow)
 ![](https://visitor-badge.glitch.me/badge?page_id=gnujoow.gnujoow)
 
 <!--
