@@ -5,6 +5,11 @@
 [![GitHub gnujoow](https://img.shields.io/github/followers/gnujoow?label=follow&style=social)](https://github.com/gnujoow)
 ![](https://visitor-badge.glitch.me/badge?page_id=gnujoow.gnujoow)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnujoow&hide=TeX&layout=compact)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gnujoow&count_private=true&show_icons=true&include_all_commits=true)
+
+
 <!--
 **gnujoow/gnujoow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
