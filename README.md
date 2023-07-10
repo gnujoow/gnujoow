@@ -5,11 +5,6 @@
 [![GitHub gnujoow](https://img.shields.io/github/followers/gnujoow?label=follow&style=for-the-badge&logo=github)](https://github.com/gnujoow)
 [![Twitter: kimlogme](https://img.shields.io/twitter/follow/gnujoow?style=for-the-badge&logo=twitter)](https://twitter.com/kimlogme)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnujoow&hide=TeX&layout=compact)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gnujoow&count_private=true&show_icons=true&include_all_commits=true)
-
-![visitor](https://visitor-badge.glitch.me/badge?page_id=gnujoow.gnujoow)
 ![Profile last updated](https://img.shields.io/github/last-commit/gnujoow/gnujoow/main?label=Last%20updated&style=flat-square)
 
 <!--
