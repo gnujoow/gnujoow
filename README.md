@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[blog](https://kimlog.me)
+
 [![Linkedin: woojung](https://img.shields.io/badge/-woojung-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wjkim90/)](https://www.linkedin.com/in/wjkim90/)
 [![stackoverflow: woojung](https://img.shields.io/badge/-gnujoow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1805575/gnujoow/)](https://stackoverflow.com/users/1805575/gnujoow)
 [![GitHub gnujoow](https://img.shields.io/github/followers/gnujoow?label=follow&style=for-the-badge&logo=github)](https://github.com/gnujoow)
